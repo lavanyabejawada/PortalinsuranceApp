@@ -1,0 +1,14 @@
+.row{
+    padding-left: 30px;
+    font-size:20px ;
+}
+.progress{
+    width: 150px;
+    height: 10px;    
+}
+
+
+.float{
+    margin: 0px 20px ;
+    display: flex;
+}
